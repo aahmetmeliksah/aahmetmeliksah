@@ -1,7 +1,7 @@
 ### Hi! I'm Meliksah 👋
 
 
-Here are some ideas to get you started:
+Here are things those I'm doing:
 
 - 🔭 I’m currently working on Vaniila JavaScript projects
 - 🌱 I’m currently learning React
