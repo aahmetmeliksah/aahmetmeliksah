@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aahmetmeliksah@gmail.com**
 
-- ⚡ Fun fact **I love muay thai/ bodyweight workout**
+- ⚡ Fun fact **I love muay thai and bodyweight workout**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
