@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet Meliksah</h1>
 <h3 align="center">An ambitious full stack developer from Turkey</h3>
 
-- 🔭 I’m currently in **Patika.dev/Logo Cyber Security bootcamp where we will be making projects using JavaScript and Node.js**
+- 🔭 I’m currently in **Patika.dev/Logo Cyber Security full stack developer bootcamp where we will be making projects using JavaScript and Node.js**
 
 - 🌱 I’m currently learning **React.js and Node.js**
 
