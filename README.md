@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently in **Patika.dev/Logo Cyber Security full stack developer bootcamp where we will be making projects using JavaScript, Vue.js and Node.js**
 
-- 🌱 I’m currently learning **React.js and Node.js**
+- 🌱 I’m currently learning **React.js, Vue.js and Node.js**
 
 - 💬 Ask me about **Vanilla JavaScript**
 
