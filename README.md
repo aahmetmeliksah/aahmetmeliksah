@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet Meliksah</h1>
-<h3 align="center">An ambitious full stack developer from Turkey</h3>
+<h3 align="center">An otherwordly full stack developer ;)</h3>
 
 - 🔭 I’m currently in **Patika.dev/Logo Cyber Security full stack developer bootcamp where we will be making projects using JavaScript, Vue.js and Node.js**
 
