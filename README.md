@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js and Node.js**
 
-- 💬 Ask me about **Vanilla JavaScript**
+- 💬 Ask me about **Next.js**
 
 - 📫 How to reach me **aahmetmeliksah@gmail.com**
 
