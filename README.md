@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:aahmetmeliksah@gmail.com"><img src="https://img.shields.io/badge/Email-101828?style=for-the-badge&amp;logo=gmail&amp;logoColor=72efcf" alt="Email" /></a>
-  <a href="https://linkedin.com/in/ahmetmeliksahakdeniz"><img src="https://img.shields.io/badge/LinkedIn-101828?style=for-the-badge&amp;logoColor=72efcf" alt="LinkedIn" /></a>
+  <a href="[https://linkedin.com/in/ahmetmeliksahakdeniz](https://www.linkedin.com/in/ahmet-meliksah-akdeniz-8a316238b/)"><img src="https://img.shields.io/badge/LinkedIn-101828?style=for-the-badge&amp;logoColor=72efcf" alt="LinkedIn" /></a>
   <a href="https://stackoverflow.com/users/16475226"><img src="https://img.shields.io/badge/Stack_Overflow-101828?style=for-the-badge&amp;logo=stackoverflow&amp;logoColor=a79aff" alt="Stack Overflow" /></a>
   <a href="https://www.hackerrank.com/aahmetmeliksah"><img src="https://img.shields.io/badge/HackerRank-101828?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=72efcf" alt="HackerRank" /></a>
 </p>
