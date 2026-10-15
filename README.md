@@ -3,9 +3,7 @@
 
 🔭
 
-- 🌱 I’m currently learning **React.js and Node.js**
-
-- 💬 Ask me about **Next.js**
+- 🌱 I’m currently developing projects with **Next.js, Node.js, PHP, Python** and I use third-party tools to develop modern, AI-powered projects.
 
 - 📫 How to reach me **aahmetmeliksah@gmail.com**
 
