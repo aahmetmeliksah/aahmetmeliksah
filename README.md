@@ -48,8 +48,6 @@ I build web applications from the interface through to the backend, database, an
 
 ### 04 / Development activity
 
-<a href="https://github.com/aahmetmeliksah#js-contribution-activity"><img src="./assets/profile-stats.svg" width="100%" alt="Verified October 15, 2026: 548 GitHub contributions, 540 local commits, 1 merged authored pull request. A+ is a personal badge, not an official GitHub rank." /></a>
-
 <details>
 <summary>Behind the numbers</summary>
 
@@ -57,7 +55,6 @@ I build web applications from the interface through to the backend, database, an
 - **540 local commits:** October 15, 2025–October 15, 2026, attributed to my Git email addresses across nine local repositories and deduplicated by commit SHA.
 - **1 merged PR:** verified in GitHub's authenticated authored-PR search on October 15, 2026.
 - These are **dated snapshots**, including work that public-only widgets can miss. Local commits and GitHub contributions are different measures; they should not be added together.
-- **A+** is a personal badge for this profile, not an official GitHub score or percentile.
 
 </details>
 
