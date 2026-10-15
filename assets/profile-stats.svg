@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-label="Activity snapshot October 15 2026: 548 GitHub contributions, 540 local commits, 1 merged authored pull request. A+ personal badge, not GitHub rank.">
+<rect x="1" y="1" width="958" height="258" rx="20" fill="#101828" stroke="#2c3750"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="30" y="39" fill="#f1f5ff" font-size="18" font-weight="600">The work behind the profile</text><text x="30" y="64" fill="#95a4be" font-size="12" letter-spacing="1">ACTIVITY SNAPSHOT / 15 OCT 2026</text>
+<path d="M30 86H930" stroke="#2c3750"/>
+<text x="32" y="151" fill="#72efcf" font-size="49" font-weight="700">548</text><text x="33" y="180" fill="#e2e8f0" font-size="16">GitHub contributions</text><text x="33" y="204" fill="#95a4be" font-size="12">Last year on GitHub</text>
+<text x="292" y="151" fill="#a79aff" font-size="49" font-weight="700">540</text><text x="293" y="180" fill="#e2e8f0" font-size="16">Local commits</text><text x="293" y="204" fill="#95a4be" font-size="12">Last 12 months · 9 repos audited</text>
+<text x="552" y="151" fill="#7fc9ff" font-size="49" font-weight="700">1</text><text x="553" y="180" fill="#e2e8f0" font-size="16">Merged pull request</text><text x="553" y="204" fill="#95a4be" font-size="12">Verified authored PR</text>
+<circle cx="841" cy="143" r="47" fill="#172b30" stroke="#72efcf" stroke-width="3"/><text x="841" y="159" text-anchor="middle" fill="#72efcf" font-size="42" font-weight="700">A+</text><text x="841" y="214" text-anchor="middle" fill="#b8c5d9" font-size="12">Personal badge</text><text x="841" y="234" text-anchor="middle" fill="#95a4be" font-size="11">Not a GitHub rank</text></g></svg>
