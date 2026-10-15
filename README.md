@@ -45,20 +45,5 @@ I build web applications from the interface through to the backend, database, an
 </td>
 </tr>
 </table>
-
-### 04 / Development activity
-
-<details>
-<summary>Behind the numbers</summary>
-
-- **548 contributions:** GitHub profile graph for the last year, observed October 15, 2026.
-- **540 local commits:** October 15, 2025–October 15, 2026, attributed to my Git email addresses across nine local repositories and deduplicated by commit SHA.
-- **1 merged PR:** verified in GitHub's authenticated authored-PR search on October 15, 2026.
-- These are **dated snapshots**, including work that public-only widgets can miss. Local commits and GitHub contributions are different measures; they should not be added together.
-
-</details>
-
----
-
 <p align="center"><strong>Build, learn, train, repeat.</strong><br />Away from the keyboard: Muay Thai and bodyweight workouts.</p>
 <p align="center"><a href="mailto:aahmetmeliksah@gmail.com">aahmetmeliksah@gmail.com</a></p>
