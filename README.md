@@ -38,6 +38,16 @@ A Vue.js and Node.js bootcamp project with PostgreSQL, API-driven product listin
 
 [LinkedIn](https://linkedin.com/in/ahmetmeliksahakdeniz) · [Stack Overflow](https://stackoverflow.com/users/16475226) · [HackerRank](https://www.hackerrank.com/aahmetmeliksah)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aahmetmeliksah&show_icons=true&locale=en" alt="Ahmet Meliksah's GitHub stats" />
-</p>
+### Development activity
+
+*Verified on October 15, 2026. These are dated snapshots, not live counters.*
+
+| Activity | Verified count | Scope |
+| --- | ---: | --- |
+| GitHub contributions | **548** | Profile contribution graph for the last year |
+| Commits in local repositories | **540** | October 15, 2025–October 15, 2026; commits attributed to my Git email addresses across nine local repositories, deduplicated by commit SHA |
+| Authored pull requests | **1 merged** | GitHub's authenticated authored-PR search as of the verification date |
+
+My work includes private repositories and team projects. Public-only stats widgets do not capture that full activity. Local commit counts and GitHub contributions measure different things and should not be added together.
+
+[View my GitHub contribution activity](https://github.com/aahmetmeliksah#js-contribution-activity)
